@@ -1,0 +1,72 @@
+.albums {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cd {
+    border: 5px double black;
+    padding: 15px;
+    background-color: #e8982e;
+    color: white;
+}
+
+.kanye {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #e8982e;
+}
+
+.one {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.two {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.three {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.four {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.five {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.six {
+    border: 10px inset #e8982e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #411218;
+    font-family: 'Sofia', cursive;
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+
+
+img {
+    box-shadow: 10px 100px 100px red;
+}
